@@ -1,22 +1,17 @@
+
 {
-  "employees": [
+  "users": [
     {
       "id": 1,
-      "student_name": "Sebastian",
-      "student_course": 2,
-      
+      "title": "MacAwesome"
     },
     {
       "id": 2,
-      "student_name": "Steve",
-      "student_course": 3,
-      
+      "title": "Cheezburger"
     },
     {
       "id": 3,
-      "student_name": "Ann",
-      "student_course": 1,
-      
+      "title": "CryingFar"
     }
   ]
 }
