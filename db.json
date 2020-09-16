@@ -3,19 +3,19 @@
     {
       "id": 1,
       "student_name": "Sebastian",
-      "student_course": 2,
+      "student_course": 2
       
     },
     {
       "id": 2,
       "student_name": "Steve",
-      "student_course": 3,
+      "student_course": 3
       
     },
     {
       "id": 3,
       "student_name": "Ann",
-      "student_course": 1,
+      "student_course": 1
       
     }
   ]
